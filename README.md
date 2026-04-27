@@ -56,7 +56,7 @@ The dataset includes:
 
 Navigate to the project folder:
 
-cd customer-segmentation-kmeans-pca
+cd customer-segmentation-kmeans-pca-clustering
 
 Install dependencies:
 
